@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # COVID Symptom Analysis
 
@@ -59,9 +58,3 @@ The machine learning model (`model_rf.joblib`) is a Random Forest Classifier tra
 - Loss of taste or smell
 - And more...
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-=======
-# Covid_Symptoms
->>>>>>> f45b14ba796a5024158ea7bb8e669fe6e4507c65
